@@ -41,9 +41,9 @@ homework assignment #1 for fintech bootcamp. Case study on Clearco.
 
 * Clearco currently offers dashboards with analytics and KPI tools to help its customers monitor their business health and benchmark against competitors in the industry. Service can also include consulting services such as supply chain analysis, introductions to networks and competitive landscape analysis.
 
-* It would be also great if Clearco could build a partnership with a reputable patent and IP protection firm. Investing in IP protection without splurging on an unproven product is a common goal among all startups, and thus should be a somewhat common need among most of of Clearco's exisiting customers. If Clearco can bundle their offer with a very market competitive rate for IP service, some merchants could definitely be swayed by that offer.
+* It would be also great if Clearco could offer consulting service on patents and IP protection. Investing in IP protection without splurging on an unproven product is a challenge among many startups, and thus should be a somewhat common need among many of Clearco's exisiting customers. If Clearco can bundle their offer with a very market competitive rate for IP service, some merchants could definitely be swayed by that offer.
 
-* Implementing this idea mainly requires deep legal expertise around IP laws. In terms of technology, using AI to automate parts of the patent drafting process could offer great time savings around a somewhat tedious and potentially mentally exhausting exercise. However, these domains likely drift too far outside of Clearco's current core competencies. Therefore, exploring a partnership to offer this service is probably more ideal.
+* Implementing this idea mainly requires deep legal expertise around IP laws. In terms of technology, using AI to automate parts of the patent drafting process could also offer great time savings around a somewhat tedious and potentially mentally exhausting exercise. However, offering this service likely drifts too far outside of Clearco's current core competencies. Therefore, exploring a partnership to offer this service is probably more ideal.
 
 ## Web Sources
 
