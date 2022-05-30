@@ -5,7 +5,7 @@ homework assignment #1 for fintech bootcamp. Case study on Clearco.
 
 * Clearco was co-founded as Clearbanc in 2015 by Michele Romanow from Canada’s Shark Tank (Dragons’ Den), Andrew D’Souza, Ivan Gritsiniak, Charlie Feng, and Tanay Delima.
 
-* The company's main idea is to provide alternative financing to e-commerce startups different than traditional venture capital or venture debt.
+* The company's main idea is to provide alternative financing to e-commerce startups different than traditional venture capital.
 
 * They’ve raised $700M to date from investors including Oak HC / FT, Highland Capital, Emergence, Founder’s Fund, and Inovia.
 
