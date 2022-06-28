@@ -1,4 +1,4 @@
-# fintechbootcamp_hwk1
+# fintech_hwk1
 homework assignment #1 for fintech bootcamp. Case study on Clearco.
 
 ## Overview and Origin
